@@ -18,8 +18,8 @@ Cloning Instagram with Express + Prisma + React.js and ReactNative (Feat.Nomad c
 - [x] See my profile
 - [x] See the full photo
 - [x] Upload a photo
-- [ ] Edit the photo (Delete)
-- [ ] See the feed
+- [x] Edit the photo (Delete)
+- [x] See the feed
 - [ ] See rooms
 - [ ] See room
 - [ ] Send private Message
