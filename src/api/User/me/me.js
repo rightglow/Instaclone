@@ -14,10 +14,4 @@ export default {
       };
     },
   },
-  User: {
-    fullName: (parent) => {
-      console.log(parent);
-      return `${parent.firstName} ${parent.lastName}`;
-    },
-  },
 };
